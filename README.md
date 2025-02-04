@@ -31,7 +31,7 @@ To get started with Gadget Heaven locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gadget-heaven.git
+   https://github.com/kausar017/gatget-hiven.git
 
 Navigate to the project directory:
 
